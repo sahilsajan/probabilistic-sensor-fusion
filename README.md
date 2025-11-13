@@ -4,9 +4,9 @@
 
 This repository contains the entire timeline of the project and how we decided upon the factors and parameters for the project.
 
-## The requirements of the project as per the project instructions are:
+The requirements of the project as per the project instructions are:
 
-<ins> Probabilistic Sensor Fusion <ins>
+<ins> Probabilistic Sensor Fusion </ins>
 • Implement Kalman filter for fusing multiple sensor modalities
 • Combine odometry with GPS or landmark observations
 • Evaluate fusion performance under different sensor reliabilities
